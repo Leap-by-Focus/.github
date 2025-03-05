@@ -1,4 +1,4 @@
-### Leap - Leichtigkeit macht den Unterschied 🚀
+#### Leap - Leichtigkeit macht den Unterschied 🚀
 
 Willkommen bei Leap – der Programmiersprache, die Einfachheit und Innovation vereint! ✨
 
@@ -6,7 +6,7 @@ Leap ist eine minimalistische, aber leistungsfähige Sprache, die es Entwicklern
 
 ---
 
-🌟 Features
+**🌟 Features**
 
 ✅ Einfache und intuitive Syntax – Fokus auf Lesbarkeit und schnelle Entwicklung. 
 ✅ KI-gestützte Entwicklung – Leap plant eine eigene KI zur Code-Optimierung und Fehlervermeidung. 
@@ -16,7 +16,7 @@ Leap ist eine minimalistische, aber leistungsfähige Sprache, die es Entwicklern
 
 ---
 
-🏗 Roadmap
+**🏗 Roadmap**
 
 🔜 Leap AI – Eine smarte KI für Code-Vervollständigung und Optimierung.
 🔜 Erweiterte Debugging-Tools.
