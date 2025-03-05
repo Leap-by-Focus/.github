@@ -24,6 +24,7 @@ Leap ist eine simple und zuverlässige Sprache, die es neuen Entwicklern ermögl
 - Erweiterte Debugging-Tools.
 - Weitere Plattform-Unterstützungen.
 
+---
 
 Bleib auf dem Laufenden und werde Teil der Zukunft! 🌍✨
 
