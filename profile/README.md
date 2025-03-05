@@ -1,4 +1,4 @@
-##Leap - Leichtigkeit macht den Unterschied 🚀
+Leap - Leichtigkeit macht den Unterschied 🚀
 
 Willkommen bei Leap – der Programmiersprache, die Einfachheit und Innovation vereint! ✨
 
