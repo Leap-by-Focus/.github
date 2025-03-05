@@ -29,9 +29,3 @@ Leap ist eine simple und zuverlässige Sprache, die es neuen Entwicklern ermögl
 Bleib auf dem Laufenden und werde Teil der Zukunft! 🌍✨
 
 Danke, dass du Leap ausprobierst! 🚀💙 Happy Coding! 🎉
-
-
----
-
-## 📊 Sprachen-Statistik
-![Sprachen-Statistik](stats.png)
