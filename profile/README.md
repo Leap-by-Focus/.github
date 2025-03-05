@@ -18,9 +18,9 @@ Leap ist eine simple und zuverlässige Sprache, die es neuen Entwicklern ermögl
 
 **🏗 Roadmap**
 
-🔜 Leap AI – Eine smarte KI für Code-Vervollständigung und Optimierung.
-🔜 Erweiterte Debugging-Tools.
-🔜 Weitere Plattform-Unterstützungen.
+- Leap AI – Eine smarte KI für Code-Vervollständigung und Optimierung.
+- Erweiterte Debugging-Tools.
+- Weitere Plattform-Unterstützungen.
 
 Bleib auf dem Laufenden und werde Teil der Zukunft! 🌍✨
 
