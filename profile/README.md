@@ -4,6 +4,8 @@ Willkommen bei Leap – der Programmiersprache, die Einfachheit und Innovation v
 
 Leap ist eine minimalistische, aber leistungsfähige Sprache, die es Entwicklern ermöglicht, schnell und effizient Code zu schreiben. Unser Ziel ist es, eine intuitive Syntax mit einer integrierten KI-Unterstützung zu kombinieren, um die Programmiererfahrung auf das nächste Level zu bringen. 💡🤖
 
+---
+
 🌟 Features
 
 ✅ Einfache und intuitive Syntax – Fokus auf Lesbarkeit und schnelle Entwicklung. 
@@ -12,11 +14,13 @@ Leap ist eine minimalistische, aber leistungsfähige Sprache, die es Entwicklern
 ✅ Starke Community – Eine lebendige Community mit einem Forum, Dokumentationen und Tutorials. 
 ✅ Plattformübergreifend – Entwickle und führe Leap-Code auf verschiedenen Betriebssystemen aus.
 
+---
+
 🏗 Roadmap
 
-#🔜 Leap AI – Eine smarte KI für Code-Vervollständigung und Optimierung.
-#🔜 Erweiterte Debugging-Tools.
-#🔜 Weitere Plattform-Unterstützungen.
+🔜 Leap AI – Eine smarte KI für Code-Vervollständigung und Optimierung.
+🔜 Erweiterte Debugging-Tools.
+🔜 Weitere Plattform-Unterstützungen.
 
 Bleib auf dem Laufenden und werde Teil der Zukunft! 🌍✨
 
